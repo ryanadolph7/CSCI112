@@ -1,0 +1,6 @@
+8 ccddabce
+100 bcddabca
+107 ccddcbab
+112 ccddabcc
+115 bbccabcd
+120 cdcdabde

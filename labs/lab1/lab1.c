@@ -32,7 +32,6 @@ int main(void) {
     // check the substance
     // if user inputs anything other than 'n', 'N', 'y', 'Y' then the switch statement returns
     // false, terminating the program and telling the user bad input
-
     switch(ans) {
         case 'y':
             printf("Enter error percent: ");
